@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://azalea.trashdev.org/blog</id>
+    <title>Azalea Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://azalea.trashdev.org/blog"/>
+    <subtitle>Azalea Blog</subtitle>
+    <icon>https://azalea.trashdev.org/img/</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://azalea.trashdev.org/blog/welcome</id>
+        <link href="https://azalea.trashdev.org/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[is this thing working]]></summary>
+        <content type="html"><![CDATA[<p>is this thing working</p>]]></content>
+        <author>
+            <name>TheLegendaryTrashcan</name>
+            <uri>https://github.com/Ant767</uri>
+        </author>
+        <category label="yes" term="yes"/>
+    </entry>
+</feed>
